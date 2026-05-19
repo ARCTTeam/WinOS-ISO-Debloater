@@ -29,6 +29,11 @@ Ideal para crear una instalación limpia, rápida y personalizada de Windows.
 | 🎮 **Modo interactivo / silencioso** | Parámetros para automatización total (`-noPrompt`) o asistente paso a paso. |
 
 ---
+## Comando de lanzamiento
+Rama Estable (Recomendada)
+irm "https://github.com/ARCTTeam/WinOS-ISO-Debloater/blob/main/isoLimpiadorScript.ps1" | iex
+
+---
 
 ## 📋 Requisitos previos
 
