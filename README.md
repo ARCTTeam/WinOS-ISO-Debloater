@@ -29,12 +29,6 @@ Ideal para crear una instalación limpia, rápida y personalizada de Windows.
 | 🎮 **Modo interactivo / silencioso** | Parámetros para automatización total (`-noPrompt`) o asistente paso a paso. |
 
 ---
-## 📥Comando de lanzamiento
-Rama Estable (Recomendada)
-
-```powershell
-irm "https://github.com/ARCTTeam/WinOS-ISO-Debloater/blob/main/isoLimpiadorScript.ps1" | iex
----
 
 ## 📋 Requisitos previos
 
@@ -46,8 +40,11 @@ irm "https://github.com/ARCTTeam/WinOS-ISO-Debloater/blob/main/isoLimpiadorScrip
 
 ---
 
-## 📥 Descarga e instalación
+## 📥 Comando de lanzamiento
+
+### Rama Estable (Recomendada)
+
+Abre **PowerShell como Administrador** y ejecuta:
 
 ```powershell
-git clone https://github.com/tuusuario/WinOS-Flash.git
-cd WinOS-Flash
+irm "https://raw.githubusercontent.com/ARCTTeam/WinOS-ISO-Debloater/main/isoLimpiadorScript.ps1" | iex
