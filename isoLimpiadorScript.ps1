@@ -1,7 +1,7 @@
 # WinOS Flash - Script para modificar ISO de Windows
 # Optimizacion inteligente por reglas (IA simplificada)
-# Autor original: itsNileshHere
-# Modificaciones: Traduccion sin tildes, integracion de drivers local, supresion de progreso, reglas dinamicas
+# Autor original: ARCTTeam
+# Modificaciones: Integracion de drivers local, supresion de progreso, reglas dinamicas
 # Version: WinOS Flash
 
 param(
@@ -67,7 +67,8 @@ $asciiArt = @"
 | | /| / / / __ \/ __  / __ \ | /| / / ___/   / / \__ \/ / / /  / / / / _ \/ __ \/ / __ \/ __ `/ __/ _ \/ ___/
 | |/ |/ / / / / / /_/ / /_/ / |/ |/ (__  )  _/ / ___/ / /_/ /  / /_/ /  __/ /_/ / / /_/ / /_/ / /_/  __/ /    
 |__/|__/_/_/ /_/\__,_/\____/|__/|__/____/  /___//____/\____/  /_____/\___/_.___/_/\____/\__,_/\__/\___/_/     
-                                                                                        - WinOS Flash                                                                                               
+                                                                                        
+																						                                                                                              
 "@
 
 Write-Host $asciiArt -ForegroundColor Cyan
